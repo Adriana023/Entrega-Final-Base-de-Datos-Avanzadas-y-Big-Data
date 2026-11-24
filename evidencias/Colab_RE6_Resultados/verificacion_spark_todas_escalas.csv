@@ -1,0 +1,10 @@
+escala,mismo_conteo_llaves,cumple_equivalencia,metrica,max_diff_abs,max_diff_rel,cumple_tolerancia
+1K,True,True,n_registros,0.0,0.0,True
+1K,True,True,total_unidades,0.0,0.0,True
+1K,True,True,venta_total,0.0,0.0,True
+100K,True,True,n_registros,0.0,0.0,True
+100K,True,True,total_unidades,0.0,0.0,True
+100K,True,True,venta_total,0.0,0.0,True
+1M,True,True,n_registros,0.0,0.0,True
+1M,True,True,total_unidades,0.0,0.0,True
+1M,True,True,venta_total,0.0,0.0,True
