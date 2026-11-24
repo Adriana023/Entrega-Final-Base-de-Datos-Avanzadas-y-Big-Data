@@ -1,0 +1,13 @@
+﻿NumeroAnio,NombreCanal,NombreCategoria,Recuento de ClaveHechoVenta,Suma de CantidadPedido,Suma de MontoVenta
+2024,Efectivo,Línea Decorativa,28,53,7440
+2025,Efectivo,Línea Decorativa,136,253,33960
+2026,Efectivo,Línea Decorativa,99,191,24120
+2024,Tarjeta,Línea Decorativa,33,67,8160
+2025,Tarjeta,Línea Decorativa,105,222,26160
+2026,Tarjeta,Línea Decorativa,90,179,22800
+2024,Transferencia,Línea Decorativa,26,55,6000
+2025,Transferencia,Línea Decorativa,135,275,33600
+2026,Transferencia,Línea Decorativa,102,207,22320
+2024,Yape / Plin,Línea Decorativa,31,58,8280
+2025,Yape / Plin,Línea Decorativa,124,244,30600
+2026,Yape / Plin,Línea Decorativa,91,180,22200

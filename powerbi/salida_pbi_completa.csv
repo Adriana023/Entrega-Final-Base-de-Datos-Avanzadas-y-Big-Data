@@ -1,0 +1,37 @@
+﻿NumeroAnio,NombreCanal,NombreCategoria,Recuento de ClaveHechoVenta,Suma de CantidadPedido,Suma de MontoVenta
+2024,Efectivo,Línea Decorativa,385038,770562,76118760
+2024,Efectivo,Menaje de Cocina,610908,1219290,58390320
+2024,Efectivo,Vajilla Utilitaria,573882,1147512,47806920
+2025,Efectivo,Línea Decorativa,1824036,3648102,360690480
+2025,Efectivo,Menaje de Cocina,2902848,5803080,278490660
+2025,Efectivo,Vajilla Utilitaria,2701914,5406258,225424230
+2026,Efectivo,Línea Decorativa,1436856,2870226,284201910
+2026,Efectivo,Menaje de Cocina,2278416,4556016,218523300
+2026,Efectivo,Vajilla Utilitaria,2140956,4285272,178128570
+2024,Tarjeta,Línea Decorativa,384330,768786,75918060
+2024,Tarjeta,Menaje de Cocina,608814,1217076,58373850
+2024,Tarjeta,Vajilla Utilitaria,570036,1140156,47421780
+2025,Tarjeta,Línea Decorativa,1825560,3652320,360811620
+2025,Tarjeta,Menaje de Cocina,2894160,5789394,277720050
+2025,Tarjeta,Vajilla Utilitaria,2707200,5417328,225794130
+2026,Tarjeta,Línea Decorativa,1441128,2886564,285327900
+2026,Tarjeta,Menaje de Cocina,2280144,4562244,218494320
+2026,Tarjeta,Vajilla Utilitaria,2135544,4278228,178021380
+2024,Transferencia,Línea Decorativa,383310,767478,75776220
+2024,Transferencia,Menaje de Cocina,613830,1229886,58751010
+2024,Transferencia,Vajilla Utilitaria,572664,1144332,47690040
+2025,Transferencia,Línea Decorativa,1823976,3648684,361266660
+2025,Transferencia,Menaje de Cocina,2894100,5789712,277421760
+2025,Transferencia,Vajilla Utilitaria,2706732,5415324,225588360
+2026,Transferencia,Línea Decorativa,1436022,2873838,283936860
+2026,Transferencia,Menaje de Cocina,2282520,4567362,218500110
+2026,Transferencia,Vajilla Utilitaria,2135856,4267866,177971850
+2024,Yape / Plin,Línea Decorativa,384510,767628,75853080
+2024,Yape / Plin,Menaje de Cocina,611094,1221060,58556040
+2024,Yape / Plin,Vajilla Utilitaria,572568,1144938,47670930
+2025,Yape / Plin,Línea Decorativa,1819026,3637560,359127900
+2025,Yape / Plin,Menaje de Cocina,2899656,5796090,277459260
+2025,Yape / Plin,Vajilla Utilitaria,2703546,5402244,225597390
+2026,Yape / Plin,Línea Decorativa,1436226,2873442,284024790
+2026,Yape / Plin,Menaje de Cocina,2283510,4569516,217944840
+2026,Yape / Plin,Vajilla Utilitaria,2139108,4282122,178664940
