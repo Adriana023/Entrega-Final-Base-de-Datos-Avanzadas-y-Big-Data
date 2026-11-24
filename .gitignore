@@ -1,0 +1,38 @@
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python / Jupyter / Spark
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+spark-warehouse/
+derby.log
+metastore_db/
+
+# Logs y archivos temporales
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Archivos pesados de datos o BI (enlazar en README / Drive si superan el límite de GitHub)
+*.parquet
+*.pbix
+*.zip
+*.7z
+*.rar
+
+# Archivos del sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json

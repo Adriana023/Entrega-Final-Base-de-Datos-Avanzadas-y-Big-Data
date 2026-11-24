@@ -1,0 +1,7 @@
+numpy>=1.26.0
+pandas>=2.1.0
+psutil>=5.9.0
+scipy>=1.12.0
+pyspark>=3.5.0
+matplotlib>=3.8.0
+plotly>=5.20.0
